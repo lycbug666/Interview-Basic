@@ -6,3 +6,7 @@ Basic questions in technical interviews for backend developer
 # 数据库
 
 # 操作系统
+
+# 系统设计
+
+# 大数据
